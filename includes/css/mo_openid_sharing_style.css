@@ -1,0 +1,168 @@
+.mo-openid-app-icons>p{
+    margin:0px !important;
+
+}
+
+.mo-openid-app-icons{
+    display:inline !important;
+}
+.mo-openid-app-icons>a{
+    box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 0) !important;
+}
+.mo-openid-app-icons>code>a{
+    box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 0) !important;
+}
+.mo-openid-app-icons>a>img{
+    box-shadow: 0 0 0 0px #fff !important;
+}
+.mo-openid-app-icons>code>a>img{
+    box-shadow: 0 0 0 0px #fff !important;
+}
+.mo-openid-app-icons>.horizontal>a>img{
+    box-shadow: 0 0 0 0px #fff !important;
+}
+.mo-openid-app-icons>.horizontal>a{
+    box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 0)!important;}
+.mo-openid-share-link{
+    border-bottom: 0px !important;
+    box-sizing:border-box !important;
+}
+p>a.mo-openid-share-link
+{ box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 0)!important;
+
+
+}
+.mo-openid-app-icons>div>a.mo-openid-share-link>img.mo-openid-app-share-icons
+{
+    box-shadow:0 0 0 0px #fff !important;
+}
+.mo-openid-app-share-icons{
+    width:35px !important;
+    height:35px !important;
+    display:inline !important;
+}
+.mo-openid-app-icons>div>a.mo-openid-share-link
+{ box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 0) !important;
+
+}
+aside.widget-area>section.widget_mo_openid_sharing_hor_wid>div.mo-openid-app-icons>div
+{
+    font-size:0	!important;
+}
+.mo-openid-app-icons>a>img{
+    width:35px !important;
+    height:35px !important;
+    margin:8px 0px;
+    display: inline !important;
+}
+.btn-customtheme{
+    color:#ffffff !important;
+}
+.btn-custom-dec{
+    text-decoration:none !important;
+}
+.custom-login-button{
+    text-align:center !important;
+    color:white !important;
+    padding-top:8px !important;
+    box-sizing: border-box !important;
+}
+.circle{
+    border-radius: 999px !important;
+}
+
+.oval{
+    border-radius: 4px !important;
+}
+
+.round{
+
+    border-radius: 999px !important;
+}
+
+.roundededges{
+    border-radius: 4px !important;
+}
+.mo_openid_vertical{
+    display:inline-block !important;
+    overflow: visible;
+    z-index: 10000000;
+    padding: 10px;
+    border-radius: 4px;
+    opacity: 1;
+    -webkit-box-sizing: content-box!important;
+    -moz-box-sizing: content-box!important;
+    box-sizing: content-box!important;
+    width:40px !important;
+    position:fixed;
+}
+
+
+/*woocommerce product page sharing*/
+.mo_openid_wco_pro_images {
+    width: 75% !important;
+    height: 75% !important;
+    -webkit-box-shadow: 3px 3px 5px 6px #8c8f94;
+    -moz-box-shadow:    3px 3px 5px 6px #8c8f94;
+    box-shadow:         3px 3px 5px 6px #8c8f94;
+}
+
+.mo_openid_wc_sh_table_layout {
+    background-color:#FFFFFF;
+    padding:0px 1.5% 10px 1.5%;
+    height:auto;
+    border-radius: 0px 15px 15px 0px;
+}
+
+
+/*vertical share icon*/
+
+.mo-openid-vertical-app-share-icon{
+    width:35px !important;
+    height:35px !important;
+}
+.mo_openid_popup-modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    margin-left: 6%;
+    max-width: 100% !important; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.mo_openid_modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 65%;
+}
+
+
+/* The Close Button */
+.mo_openid-popup-modal-close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.mo_openid-popup-modal-close:hover,
+.mo_openid-popup-modal-close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mo_openid-on-hover-free-fetr:hover,
+.mo_openid-on-hover-free-fetr:focus{
+    color: #1B79AE;
+}
+/* license toggle end */
